@@ -19,7 +19,7 @@ Logistic regression classification using reduced features
 
  pca_cancer_analysis.ipynb: Jupyter notebook with complete analysis
  pca_cancer_analysis.py: Python script version of the analysis
-# Output visualizations:
+### Output visualizations:
 1.Explained variance chart
 2.PCA projection plot
 3.Feature contribution heatmap
