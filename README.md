@@ -1,5 +1,5 @@
 # PCA_Cancer-Analysis
-# Subumitted : Abdullahi Mohamed Jibril
+# Submitted : Abdullahi Mohamed Jibril
 
 ### Breast Cancer PCA Analysis
 ________________________________
